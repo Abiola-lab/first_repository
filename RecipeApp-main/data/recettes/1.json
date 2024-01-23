@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "titre": "Spaghetti Bolognaise",
+    "description": "Un classique italien savoureux et facile à préparer.",
+    "ingredients": [
+        "400g de spaghetti",
+        "300g de viande hachée",
+        "1 boîte de tomates pelées",
+        "1 oignon",
+        "2 gousses d'ail",
+        "Huile d'olive",
+        "Sel et poivre"
+    ],
+    "etapes": [
+        "Faire chauffer l'huile dans une poêle et y ajouter l'oignon et l'ail hachés.",
+        "Ajouter la viande hachée et faire brunir.",
+        "Incorporer les tomates pelées, saler, poivrer et laisser mijoter.",
+        "Faire cuire les spaghetti al dente, égoutter et servir avec la sauce bolognaise."
+    ]
+}
