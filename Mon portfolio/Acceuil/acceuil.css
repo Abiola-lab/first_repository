@@ -1,0 +1,204 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+
+.{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+body{
+     font-family: 'Montserrat', sans-serif;
+     padding: 1rem  150px 0px 150px;
+}
+
+
+html{
+     scroll-behavior: smooth;
+}
+
+.header{
+    border: 1px solid  black;
+    background-color: black;
+}
+
+.header-title{
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.li-container{
+    display: flex;
+}
+
+.lii{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav--link{
+    margin-left: 3rem;
+}
+
+
+
+.main{
+    background-color: #203a43;
+}
+
+.brand{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.brand-droit{
+       width: 40%; 
+       border:1px solid #203a43 ;
+}
+
+.brand-gauche{
+       width: 60%;
+       border:1px solid #203a43  ;
+}
+
+.img-container{
+    border-radius: 50%;
+    border: 10px solid black;
+    width: 310px;
+    height: 310px;
+    
+}
+
+.img-container img{
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #203a43;
+}
+
+p{
+    margin-top: 5rem;
+}
+
+h1,h2,h3,ul,label,p{
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+.text-container{
+    display: flex;
+    border:1px solid #203a43  ;
+    flex-direction: column;
+    background-color: #203a43;
+}
+
+.text-container-un{
+    border:1px solid #203a43  ;
+    margin: 10px;
+    text-align: center;
+}
+
+.text-container-deux{
+    border:1px solid #203a43  ;
+    margin: 10px;
+}
+
+
+.text-container-trois{
+    border:1px solid #203a43  ;
+    margin: 10px;
+}
+
+
+.text-container-quatre{
+    border:1px solid #203a43  ;
+    margin: 10px;
+    text-align: center;
+}
+
+.img-containers{
+   background-color: #203a43;
+   padding: 1rem;
+   border:1px solid #203a43  ;
+   margin: 10px;
+ }
+
+ .img-containers-oui{
+    display: flex;
+     }
+    
+.un,.deux{
+    width: 50%;
+    border:1px solid #203a43  ;
+    padding: 1rem;
+    text-align: center;
+}
+
+
+
+ ul{
+    list-style-type: none;
+ }
+.imgs{
+     width: 50%;
+ }
+
+h2{
+    text-decoration: underline;
+}
+
+
+.contact-container{
+    display: flex;
+    background-color: #203a43;
+   padding: 1rem;
+   border:1px solid #203a43  ;
+   margin: 10px;
+}
+
+
+.contact-container{
+    display: flex;
+    padding-left: 1rem;
+    justify-content: space-between;
+}
+
+
+.google-maps{
+    width: 65%;
+    border:1px solid #203a43  ;
+}
+
+
+.contact-form{
+    width: 35%;
+    border:1px solid #203a43  ;
+}
+
+.footer{
+    background-color: black;
+    border: 1px solid  black;
+}
+
+.bas{
+ display: flex;
+ justify-content: space-between;
+ margin: 10px;
+}
+
+.bas-header{
+ font-size: 10px;
+}
